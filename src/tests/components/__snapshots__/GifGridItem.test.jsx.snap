@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GifGridItem Debe mostrar el component correctamente 1`] = `
+<Fragment>
+  <li
+    key="1"
+  >
+    <div
+      className="drop-shadow-xl"
+    >
+      <img
+        alt="title"
+        className=" transition duration-400 ease-in-out hover:-translate-y-1 hover:scale-110 object-cover h-48 w-96 rounded-lg drop-shadow-xl"
+        src="http://"
+      />
+    </div>
+  </li>
+</Fragment>
+`;
